@@ -1,0 +1,23 @@
+root {
+    --transparent: #ffffff00;
+    --black: #000000;
+    --white: #ffffff;
+    --body-dark: #4a8f84;
+    --body-light: #96d3c9;
+    --bulb-dark: #395a3b;
+    --bulb-light: #539457;
+    --eyes-dark: #cb5560;
+    --eyes-light: #e17880;
+    --mouth-dark: #a7577b;
+    --mouth-light: #d98eaf;
+}
+
+div {
+    height: 10px;
+    width: 10px;
+    background-color: var(--transparent);
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    box-shadow: 10px 0px var(--bulb-dark), 20px 0px var(--bulb-dark), 30px 0px var(--bulb-dark);
+}
