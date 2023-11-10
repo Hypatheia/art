@@ -1,1 +1,1 @@
-![Project Screenshot](/bulbasaur_screenshot.png)
+![Project Screenshot](/boxshadow_bulbasaur/bulbasaur_screenshot.png)
